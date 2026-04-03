@@ -1,2 +1,2 @@
 # Estudo_C_C++
-Estudando a linguagem C E C++, para fins de desenvolvimento de sistemas embarcados
+Estudando a linguagem C e C++, para fins de desenvolvimento de sistemas embarcados
